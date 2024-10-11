@@ -2,7 +2,7 @@
 
 https://github.com/0xprasanth/0xprasanth/blob/main/icons/activity.gif
 
-<h1 align="center">Hi <img src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
+<h1 align="center">Hi <img src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/Hi.gif" width="28px"/>, I'm Prasanth</h1>
 <h2 align="center">
   Fullstack Developer
 </h2>
@@ -18,27 +18,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 
 
-<details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
- </details>
-
- <details>
-  <summary>
-  <h4> <img align="center" src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/experience.gif" width="29"/> Experience</h4>
-  </summary>
-  - Full Stack Developer at Skillmate | June 2024 - present
- </details>
-</details>
 
 
 <details>
@@ -77,20 +56,24 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
+<summary>
+  <h2 >
+    <img src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/stats.gif" width="32" /> Stats
+  </h2>
+</summary>
 
-    ![](https://github-readme-stats.vercel.app/api?username=0xprasanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-    <br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=0xprasanth&theme=tokyonight&hide_border=false)
-    <br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xprasanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=0xprasanth&theme=tokyo-night)
+<div align="left" style="padding:20px; margin-bottom:20px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=0xprasanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Stats" style="padding:10px;" />
 
-  </div>
-</details>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xprasanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="padding:10px;" />
 
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xprasanth&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="padding:10px;" />
+  <!-- GitHub graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xprasanth&theme=tokyo-night" alt="GitHub graph" style="padding:10px;" />
+</div>
 
 
   <img src="https://komarev.com/ghpvc/?username=0xprasanth&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
