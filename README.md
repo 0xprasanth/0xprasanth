@@ -70,5 +70,10 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xprasanth&theme=tokyo-night" alt="GitHub graph" style="padding:10px;" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xprasanth/0xprasanth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xprasanth/0xprasanth/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xprasanth/0xprasanth/output/github-contribution-grid-snake.svg">
+</picture>
 
   <img src="https://komarev.com/ghpvc/?username=0xprasanth&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
