@@ -1,11 +1,6 @@
-## Hi there 👋
 
-https://github.com/0xprasanth/0xprasanth/blob/main/icons/activity.gif
+![Header](./icons/github-header-image.png)
 
-<h1 align="center">Hi <img src="https://github.com/0xprasanth/0xprasanth/blob/main/icons/Hi.gif" width="28px"/>, I'm Prasanth</h1>
-<h2 align="center">
-  Fullstack Developer
-</h2>
   <a class="display:flex;align-items:center;justify-content:center;" href="https://[your-portfolio-link]">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
