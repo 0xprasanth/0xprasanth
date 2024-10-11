@@ -71,9 +71,9 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xprasanth/0xprasanth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xprasanth/0xprasanth/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xprasanth/0xprasanth/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xprasanth/0xprasanth/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xprasanth/0xprasanth/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xprasanth/0xprasanth/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
   <img src="https://komarev.com/ghpvc/?username=0xprasanth&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
