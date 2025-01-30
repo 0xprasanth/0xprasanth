@@ -77,3 +77,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 
   <img src="https://komarev.com/ghpvc/?username=0xprasanth&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+
+<!-- [![roadmap.sh](https://roadmap.sh/card/tall/679b219331e842a9fc791d11?variant=dark)](https://roadmap.sh) -->
+
+<!-- [![roadmap.sh](https://roadmap.sh/card/wide/679b219331e842a9fc791d11?variant=dark)](https://roadmap.sh) -->
